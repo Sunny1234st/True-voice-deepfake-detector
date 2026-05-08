@@ -38,7 +38,7 @@ pip install numpy librosa joblib
 
 ```
 3. Download the Dataset Manually:
-  Download the dataset here: **The Fake or Real Dataset: https://www.kaggle.com/datasets/mohammedabdeldayem/the-fake-or-real-dataset?hl=en-IN
+  Download the dataset here: The Fake or Real Dataset: https://www.kaggle.com/datasets/mohammedabdeldayem/the-fake-or-real-dataset?hl=en-IN
   Extract the .zip file on your computer.
 
 4. Update the File Paths:
