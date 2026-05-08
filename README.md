@@ -1,4 +1,4 @@
-True Voice: Deepfake Audio Detection
+True Voice: A Multi-Feature Analysis for Deepfake Audio Detection
 
 Description
 This project is an advanced machine learning pipeline designed to detect AI-generated synthetic audio (deepfakes) and distinguish it from organic human speech. Using digital signal processing (DSP) techniques, the system extracts high-frequency acoustic features—including Mel-Frequency Cepstral Coefficients (MFCCs), Linear Frequency Cepstral Coefficients (LFCCs), and Log-Mel Spectrograms—to capture the microscopic anomalies left behind by neural text-to-speech generators. 
