@@ -12,7 +12,7 @@ The core classification is powered by an optimized Extreme Gradient Boosting (XG
 You can run this project either directly in a Kaggle Notebook (recommended) or locally on your own machine.
 
 Option 1: Running on Kaggle (Easiest Method)
-Since the code was originally built on Kaggle, the file paths are already set up for this environment.
+Since the code was originally built on Kaggle, the file paths are already set up for this environment..
 1. Create a new Notebook on [Kaggle](https://www.kaggle.com/).
 2. Click on Add Data in the right-hand menu.
 3. Add the required dataset using this direct link: [The Fake or Real Dataset (FoR)](https://www.kaggle.com/datasets/mohammedabdeldayem/the-fake-or-real-dataset).
